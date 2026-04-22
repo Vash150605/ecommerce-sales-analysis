@@ -31,5 +31,3 @@ End-to-end Tableau dashboard analysing e-commerce sales performance, profitabili
 
 ## Next Steps for Me
 Currently building 2 advanced Financial Analyst projects (Forecasting, Ratio Analysis, DCF Valuation, Trend Analysis, Common Size Statements).
-
-Made with ❤️ for my Data Analytics portfolio.
