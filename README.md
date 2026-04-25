@@ -2,6 +2,7 @@
 
 ## Project Overview
 End-to-end Tableau dashboard analysing e-commerce sales performance, profitability, discounts, delivery, and customer segments for CEO decision-making.
+(Python Generated DataSet)
 
 **Primary Objective**: Identify key drivers of profitability and uncover opportunities to improve margins.
 
