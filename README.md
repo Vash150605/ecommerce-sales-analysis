@@ -13,7 +13,7 @@ End-to-end Tableau dashboard analysing e-commerce sales performance, profitabili
 - DataSet_Excel.xlsx → Full Excel dataset
 - Data (From_PostgresSQL).csv → Raw data exported from PostgreSQL
 - Sales_Analysis_SQL.sql → SQL script (tables + final_sales_view)
-- Ecommerce_Sales_Analysis_Project_Documentation.docx → Full project report with insights, business questions, recommendations and CEO storytelling
+- Ecommerce_Sales_Analysis_Project_Documentation.docx → Full project report with insights, business questions, recommendations
 - Dashboard screenshots (Dashboard 1, 2, 3)
 
 ## Business Questions Answered
