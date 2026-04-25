@@ -9,6 +9,9 @@ End-to-end Tableau dashboard analysing e-commerce sales performance, profitabili
 **[View Live Tableau Public Dashboard](https://public.tableau.com/views/Sales_Dashboards_17752208303820/OperationsExperience?:language=en-US&publish=yes&:sid=84E3B144473648CAA1BED1560A141987-0:0&:redirect=auth&:display_count=n&:origin=viz_share_link)**  
 
 ## Files Included
+- customers.csv → Raw Data
+- orders.csv → Raw Data
+- products.csv → Raw Data
 - Sales_Dashboards.twbx → Complete Tableau workbook (3 dashboards)
 - DataSet_Excel.xlsx → Full Excel dataset
 - Data (From_PostgresSQL).csv → Raw data exported from PostgreSQL
