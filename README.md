@@ -7,7 +7,12 @@ End-to-end Tableau dashboard analysing e-commerce sales performance, profitabili
 **Primary Objective**: Identify key drivers of profitability and uncover opportunities to improve margins.
 
 ## Live Interactive Dashboards
-**[View Live Tableau Public Dashboard](https://public.tableau.com/views/Sales_Dashboards_17752208303820/OperationsExperience?:language=en-US&publish=yes&:sid=84E3B144473648CAA1BED1560A141987-0:0&:redirect=auth&:display_count=n&:origin=viz_share_link)**  
+# Dashboard 1: 
+https://public.tableau.com/views/E-Commerce_Sales_Dashboards_1/ExecutiveOverview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+# Dashboard 2:
+https://public.tableau.com/views/Sales_Dashboards_17772181355940/MarginCostDeepDive?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+# Dashboard 3:
+https://public.tableau.com/views/E-Commerce_Sales_Dashboards_3/OperationsExperience?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Files Included
 - customers.csv → Raw Data
